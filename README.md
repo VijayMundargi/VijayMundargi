@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vijay Mundargi
 
-**MERN Stack Developer** · Bengaluru, India
+**MERN Stack Developer** · Karnataka, India
 
 Passionate about building scalable full-stack applications, clean APIs, and intuitive UIs.
 

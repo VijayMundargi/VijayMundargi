@@ -35,15 +35,15 @@ Passionate about building scalable full-stack applications, clean APIs, and intu
 
 | Project | Tech | Description |
 |---|---|---|
-| [E-Commerce](https://github.com/VijayMundargi/Kartify) | Node · Express · MongoDB | RESTful backend for e-commerce | · Still in development |
+| [E-Commerce](https://github.com/VijayMundargi/Kartify) | Node · Express · MongoDB | RESTful backend for e-commerce |  Still in development |
 | [AI-Interview-Preparation-System](https://github.com/VijayMundargi/AI-Interview-Preparation-System.git) | React · Node · MongoDb · Express|
-| [Typescript setup](https://github.com/VijayMundargi/Typescript-Setup.git) | Typescript setup Guide |
-| [SUBSCRIPTION-BASED-JOB-PORTAL](https://github.com/VijayMundargi/SUBSCRIPTION-BASED-JOB-PORTAL.git) | React · Node · MongoDb · Express | · Still in development |
-| [Retail Mangement System](https://github.com/VijayMundargi/Updated-Retail.git) | React · Node · MongoDb · Express · Typescript |
+| [Typescript setup](https://github.com/VijayMundargi/Typescript-Setup.git) | Typescript setup Guide | Typescript setup Guide |
+| [SUBSCRIPTION-BASED-JOB-PORTAL](https://github.com/VijayMundargi/SUBSCRIPTION-BASED-JOB-PORTAL.git) | React · Node · MongoDb · Express |  Still in development |
+| [Retail Mangement System](https://github.com/VijayMundargi/Updated-Retail.git) | React · Node · MongoDb · Express · Typescript | Reatil store with POS system |
 | [Smart Cart AI Powered Order Mangement System](https://github.com/VijayMundargi/Nexus-hacktho.git) | React · Node · MongoDb · Express · Gemini API KEY |
-| [Student Mangement](https://github.com/VijayMundargi/StudentMangement.git) | Java · Sping boot backend |
-| [Medical Store Management System](https://github.com/VijayMundargi/Medical-Web-Application.git) | Mongodb · ExpressJS · NodeJS · ReactJS | · Still in development |
-| [avya-home](https://github.com/VijayMundargi/avya-home.git) | Mongodb · ExpressJS · NodeJS · ReactJS | · Still in development |
+| [Student Mangement](https://github.com/VijayMundargi/StudentMangement.git) | Java · Sping boot backend | Basic backend CURD opertion using java spring boot |
+| [Medical Store Management System](https://github.com/VijayMundargi/Medical-Web-Application.git) | Mongodb · ExpressJS · NodeJS · ReactJS |  Still in development 
+| [avya-home](https://github.com/VijayMundargi/avya-home.git) | Mongodb · ExpressJS · NodeJS · ReactJS |  Still in development |
 
 ---
 

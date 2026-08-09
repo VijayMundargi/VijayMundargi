@@ -47,11 +47,7 @@ Passionate about building scalable full-stack applications, clean APIs, and intu
 
 ---
 
-## 📊 Stats
 
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaymundargi&show_icons=true&theme=radical)
-
----
 
 ## 📫 Contact
 

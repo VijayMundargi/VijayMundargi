@@ -27,7 +27,7 @@ Passionate about building scalable full-stack applications, clean APIs, and intu
 
 ## 👁 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/vijaymundargi/count.svg)
+[VisitorCount(https://api.visitorbadge.io/api/VisitorHituser=vijaymundargi&repo=githubprofile&label=PROFILE%20VISITS&labelColor=%23333&countColor=%2300d9ff&style=flat)
 
 ---
 
